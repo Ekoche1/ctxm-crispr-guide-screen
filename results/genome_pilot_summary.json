@@ -1,0 +1,16 @@
+{
+  "run_date": "2026-10-12",
+  "records": 28,
+  "chromosome_negative": {
+    "n": 8,
+    "gene_found_by_sequence": 0
+  },
+  "chromosome_text_match": {
+    "n": 8,
+    "gene_found_by_sequence": 2
+  },
+  "plasmid_gene_annotated": {
+    "n": 12,
+    "gene_found_by_sequence": 12
+  }
+}

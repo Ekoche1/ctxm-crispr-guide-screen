@@ -1,0 +1,3 @@
+# Data and results are stored byte-for-byte, so every copy is identical to the original
+data/** -text
+results/** -text

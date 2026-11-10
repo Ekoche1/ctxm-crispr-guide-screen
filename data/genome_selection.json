@@ -1,0 +1,21 @@
+{
+  "query": "Escherichia coli[Organism] AND blaCTX-M-15[Gene Name] AND plasmid[Title] AND complete sequence[Title]",
+  "retrieved": "2026-10-12",
+  "total_hits_in_ncbi": 55,
+  "hits_considered": 55,
+  "rule": "12 accessions evenly spaced through the accession-sorted list of hits considered",
+  "selected_plasmids": [
+    "AP024688.1",
+    "GQ330540.1",
+    "GU371929.1",
+    "JN194214.1",
+    "KX452391.1",
+    "LC567081.1",
+    "LC888899.1",
+    "MZ634322.1",
+    "MZ634326.1",
+    "PQ066898.1",
+    "PQ066912.1",
+    "PQ872791.1"
+  ]
+}

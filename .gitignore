@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+.pytest_cache/
+.venv/
+
+# Raw downloads are not stored: scripts and data/MANIFEST.md say how to get them
+data/raw/
+results/_*.txt

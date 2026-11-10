@@ -1,0 +1,11 @@
+{
+  "pairs_compared": 17120,
+  "cap": 12,
+  "disagreements": 0,
+  "first_disagreements": [],
+  "coordinate_or_pam_errors": [],
+  "independent_candidate_count_plus": 2,
+  "independent_candidate_count_minus": 18,
+  "independent_candidate_total": 20,
+  "pipeline_candidate_total": 20
+}

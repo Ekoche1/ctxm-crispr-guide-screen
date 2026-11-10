@@ -1,0 +1,28 @@
+{
+  "run_date": "2026-10-12",
+  "python": "3.12.5",
+  "platform": "Windows-11-10.0.22000-SP0",
+  "ctxm_screen": "0.1.0",
+  "biopython": "1.88",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "regex": "2026.9.29",
+  "reference": "blaCTX-M-15",
+  "reference_length_bp": 876,
+  "spacer_len": 20,
+  "pam": "TTTV (5' of protospacer)",
+  "conserved_min": 0.95,
+  "specific_min_mm": 3,
+  "panel_sizes": {
+    "target_g1": 133,
+    "nontarget_other_ctxm_groups": 123,
+    "nontarget_other_beta_lactamases": 161,
+    "unassigned_ctxm": 11
+  },
+  "candidates": 20,
+  "candidates_conserved": 6,
+  "candidates_specific": 15,
+  "candidates_pass_both": 5,
+  "target_g1_conservation_mean": 0.995,
+  "target_g1_fully_conserved_positions": 702
+}
